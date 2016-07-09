@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/MsgPackEditorFeature_0.0.1.jar" id="MsgPackEditorFeature" version="0.0.1"/>
+   <feature url="features/org.freenono.msgpack.feature_0.0.4.jar" id="org.freenono.msgpack.feature" version="0.0.4">
+      <category name="org.freenono.msgpack.editor"/>
+   </feature>
+   <category-def name="org.freenono.msgpack.editor" label="Editor"/>
 </site>
