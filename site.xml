@@ -3,7 +3,7 @@
    <description name="MsgPack Editor" url="http://freenono.org/eclipse_update_site">
       This site contains the MsgPack Editor plugin for eclipse and its dependecies.
    </description>
-   <feature url="features/org.freenono.msgpack.feature_0.0.4.jar" id="org.freenono.msgpack.feature" version="0.0.4">
+   <feature url="features/org.freenono.msgpack.feature_0.0.6.jar" id="org.freenono.msgpack.feature" version="0.0.6">
       <category name="General Purpose Tools"/>
    </feature>
    <category-def name="General Purpose Tools" label="General Purpose Tools"/>
